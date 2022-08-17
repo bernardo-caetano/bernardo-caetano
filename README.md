@@ -1,7 +1,7 @@
 <div align = "center">
 
   <a href="https://github.com/bernardo-caetano">
-  <img   width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-caetano&layout=compact&langs_count=7&theme=dark"/>
+  <img   width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-caetano&layout=compact&langs_count=7&theme=dark"/>
   
   ##
   <br>
